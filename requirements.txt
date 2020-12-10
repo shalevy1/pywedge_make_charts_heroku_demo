@@ -1,3 +1,4 @@
 voila
 voila-gridstack
-plotly
+pandas
+pywedge
