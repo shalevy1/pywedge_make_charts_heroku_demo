@@ -1,4 +1,3 @@
 voila
 voila-gridstack
 plotly
-pywedge
