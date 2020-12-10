@@ -1,3 +1,4 @@
 voila
 voila-gridstack
-Pywedge_Make_Charts_Demo.ipynb
+plotly
+pywedge
